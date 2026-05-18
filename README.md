@@ -1,3 +1,15 @@
-This is the starting code for this tutorial.
+Social Media Platform
 
-**IMPORTANT**: After cloning the repo, open the command line inside the project and run `npm i --legacy-peer-deps`.
+A modern full-stack social media platform where users can create profiles, share posts, connect with others, like/comment on content, and interact in real time.
+
+🚀 Features
+🔐 User Authentication (Login / Register)
+👤 User Profiles
+📝 Create, Edit & Delete Posts
+❤️ Like & Comment System
+📷 Image Upload Support
+👥 Follow / Unfollow Users
+🔎 Search Users & Posts
+💬 Real-time Chat (Optional)
+🌙 Dark / Light Mode
+📱 Fully Responsive UI
